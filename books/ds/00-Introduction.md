@@ -45,13 +45,9 @@ In other words, this isn’t just a book. Alla has drawn a clear, bright map for
 
 즉, 이것은 단순한 책이 아닙니다. Ala는 디지털 디자인을 위한 보다 지속 가능한 모델의 윤곽을 보여주는 명료하고 밝은 지도를 그려냈습니다. 그리고 그녀가 우리에게 그려준 길을 걸어가면, 우리는 더 나은 디자인 시스템을 성장시키는 법을 배울 수 있을 것입니다. 그리고 그것들과 함께 더 나은 디자인을 만들 수 있을 것입니다.
 
----
-
 ## What This Book Is About (이 책의 내용)-생략
 
 ## Who This Book Is For (누구를 위한 책인가)-생략
-
----
 
 ## Scope Of The Book
 
