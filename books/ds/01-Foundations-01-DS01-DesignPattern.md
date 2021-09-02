@@ -157,6 +157,8 @@ _Tom Osborne의 시각적 음량(소음)가이드(The visual loudness guide by T
 
 - 여기까지의 내용은 [minnie kim님의 미디엄 블로그](https://minnimalism.medium.com/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%97%90-%EB%8C%80%ED%95%B4-%EC%96%98%EA%B8%B0%ED%95%B4%EB%B3%B4%EB%8B%A4-6764bba89392)에서 보다 친절한 설명을 볼 수 있다.
 
-### [NOW : Part 1 - Foundations/1.Design Systems - Design Patterns ](./01-Foundations-01-DS-DesignPattern.md)
+### [이전글 : Part 0 - Introduction](./00-Introduction.md)
 
-### [NEXT : Part 1 - Foundations/1.Design Systems - Shared Language ](./01-Foundations-01-DS-SharedLanguage.md)
+### 현재글 : Part 1 - Foundations/1.Design Systems - Design Patterns
+
+### [다음글 : Part 1 - Foundations/1.Design Systems - Shared Language ](./01-Foundations-01-DS02-SharedLanguage.md)
