@@ -140,4 +140,4 @@ A pattern library is a tool to capture, collect and share design patterns and gu
 
 ### [NOW : Part 0 - Introduction](./00-Introduction.md)
 
-### [NEXT : Part 1 - Foundations ](./01-Foundations.md)
+### [NEXT : Part 1 - Foundations/1.Design Systems - Design Patterns ](./01-Foundations-01-DS-DesignPattern.md)
