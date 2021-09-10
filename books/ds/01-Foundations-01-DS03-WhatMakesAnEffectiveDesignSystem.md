@@ -150,7 +150,7 @@ _휘트니 미술관의 로고인 '다이나믹한 W'는 심플하면서도
 <br/>
 <br/>
 
-### **AESTHETICS AND PERCEPTUAL PATTERNS (미학과 지각 패턴)**
+### - **AESTHETICS AND PERCEPTUAL PATTERNS (미학과 지각 패턴)**
 
 비슷한 시기에 우리는 10분 요리 레시피 사이트를 사용하여 누군가에게 우리가 어떻게 인식되기를 원하는지 알아내야 합니다.
 
