@@ -237,7 +237,7 @@ Spotify의 팀은 디자인 원칙을 더 기억에 남도록 만들기 위해 T
 
 ---
 
-### [Part 1 - Part 1 - Foundations/1.Design Systems - What Makes An Effective Design System ](./01-Foundations-01-DS03-WhatMakesAnEffectiveDesignSystem.md)
+### [이전글 : Part 1 - Foundations/1.Design Systems - What Makes An Effective Design System ](./01-Foundations-01-DS03-WhatMakesAnEffectiveDesignSystem.md)
 
 ### 현재글 : Part 1 - Foundations/2.Design Principles
 
