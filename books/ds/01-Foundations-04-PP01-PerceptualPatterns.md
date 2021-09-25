@@ -133,7 +133,9 @@ Vox에서는 시선을 사로잡는 이미지와 큰 제목, 선명한 서체 �
 
 트위터의 앱은 웹, 네이티브 및 타사 플랫폼등 차이가 있지만 하트의 "좋아요" 상호작용과 같은 작은 디테일은 트위터의 패턴 언어를 전파하는 데 도움이 됩니다.
 
-![twitter like gif](/image/ds/01-Foundation-img-30.gif)_iOS, 웹, Android, TweetDeck, Windows 10용 Twitter 및 기타 플랫폼용 Twitter에서 2015년에 소개된 Twitter 하트 애니메이션의 스틸컷입니다._
+![twitter like gif](/image/ds/01-Foundation-img-30.gif)
+
+_iOS, 웹, Android, TweetDeck, Windows 10용 Twitter 및 기타 플랫폼용 Twitter에서 2015년에 소개된 Twitter 하트 애니메이션의 스틸컷입니다._
 
 <br/>
 <br/>
