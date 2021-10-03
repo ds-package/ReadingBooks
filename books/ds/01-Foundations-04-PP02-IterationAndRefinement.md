@@ -14,10 +14,9 @@ FutureLearn의 스타일이 어떻게 개발되었는지 살펴보겠습니다.
 
 FutureLearn이 투영하려고 했던 성격(최소 minimal , 대담 bold, 밝은 bright, 긍정 positive, 축하 celebratory)의 일부를 포착하지만, 초기 방향과 시간이 지남에 따라 진화하는 방식 사이에는 차이가 있습니다.
 
-- 다음에 계속
-
-<br/>
-<br/>
+- 다음에 계속 ...
+  <br/>
+  <br/>
 
 ---
 
