@@ -121,6 +121,8 @@ Vox에서는 시선을 사로잡는 이미지와 큰 제목, 선명한 서체 �
 
 ![지각패턴테스트2](/image/ds/01-Foundation-img-29.png)
 
+> 이 스크린샷은 2017년 3월에 촬영되었습니다. 흥미롭게도, 몇 주 후, Vox는 그들의 디자인을 신문지 같은 빽빽한 느낌으로 바꾸었고, 더 "신뢰가고 똑똑하다"는 인상을 받았습니다. 자세한 내용은 [Behind Vox.com’s Homepage Refresh](https://product.voxmedia.com/2017/4/6/15182844/behind-vox-homepage-refresh)"을 참조하십시오.
+
 <br/>
 
 모듈 사이뿐만 아니라 다른 플랫폼과 컨텍스트(contexts) 간에도 연결할 수 있습니다.
